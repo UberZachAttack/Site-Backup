@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on UberZachAttack</title>
+    <link>https://uberzachattack.xyz/resources/</link>
+    <description>Recent content in Resources on UberZachAttack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://uberzachattack.xyz/resources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blockchain Resources</title>
+      <link>https://uberzachattack.xyz/resources/blockchain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uberzachattack.xyz/resources/blockchain/</guid>
+      <description>Ethernaut</description>
+    </item>
+    
+    <item>
+      <title>Blogs</title>
+      <link>https://uberzachattack.xyz/resources/blogs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uberzachattack.xyz/resources/blogs/</guid>
+      <description>Company Blogs #  SpecterOps</description>
+    </item>
+    
+    <item>
+      <title>CTF Resources</title>
+      <link>https://uberzachattack.xyz/resources/ctf-resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uberzachattack.xyz/resources/ctf-resources/</guid>
+      <description>Top CTF Platforms #  PicoCTF</description>
+    </item>
+    
+    <item>
+      <title>Defensive Resources</title>
+      <link>https://uberzachattack.xyz/resources/defensive-resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uberzachattack.xyz/resources/defensive-resources/</guid>
+      <description>Defensive Platforms #  Training » SECURITY BLUE TEAM</description>
+    </item>
+    
+    <item>
+      <title>Home Lab Resources</title>
+      <link>https://uberzachattack.xyz/resources/home-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uberzachattack.xyz/resources/home-lab/</guid>
+      <description>Snap Labs / Immersive Labs</description>
+    </item>
+    
+    <item>
+      <title>Main Platforms</title>
+      <link>https://uberzachattack.xyz/resources/main-platforms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uberzachattack.xyz/resources/main-platforms/</guid>
+      <description>Below are the cybersecurity resources that I have used the most and can personally attest to.</description>
+    </item>
+    
+    <item>
+      <title>Merch</title>
+      <link>https://uberzachattack.xyz/resources/merch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uberzachattack.xyz/resources/merch/</guid>
+      <description>PortSwigger Merch Store | Spreadshop</description>
+    </item>
+    
+    <item>
+      <title>Miscellaneous</title>
+      <link>https://uberzachattack.xyz/resources/miscellaneous/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uberzachattack.xyz/resources/miscellaneous/</guid>
+      <description>Random Tools and Resources #  ImHex - Hex Editor</description>
+    </item>
+    
+    <item>
+      <title>Offensive Resources</title>
+      <link>https://uberzachattack.xyz/resources/offensive-resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uberzachattack.xyz/resources/offensive-resources/</guid>
+      <description>Offensive Platforms #   Top #  Altered Security Online Labs</description>
+    </item>
+    
+    <item>
+      <title>Physical Tools</title>
+      <link>https://uberzachattack.xyz/resources/physical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uberzachattack.xyz/resources/physical/</guid>
+      <description>Get Loot!</description>
+    </item>
+    
+    <item>
+      <title>Programming Resources</title>
+      <link>https://uberzachattack.xyz/resources/programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uberzachattack.xyz/resources/programming/</guid>
+      <description>HackerRank</description>
+    </item>
+    
+    <item>
+      <title>Template Title</title>
+      <link>https://uberzachattack.xyz/resources/template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uberzachattack.xyz/resources/template/</guid>
+      <description>This is a template</description>
+    </item>
+    
+    <item>
+      <title>Training Resources</title>
+      <link>https://uberzachattack.xyz/resources/training/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uberzachattack.xyz/resources/training/</guid>
+      <description>Top #  Antisyphon</description>
+    </item>
+    
+  </channel>
+</rss>
