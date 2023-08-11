@@ -8,4 +8,4 @@ I graduated from Penn State in May of 2022 with a Bachelor of Science in Cyberse
 
 I am currently studying web application security and bug bounty hunting.
 
-More information about my work experience, certifications that I hold, and personal contact information can be found [here](/about-me/more-info/).
+More information about my work experience, certifications that I hold, and personal contact information can be found [here](/about-me/more-info).

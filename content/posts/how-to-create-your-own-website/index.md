@@ -113,4 +113,4 @@ As for Cloudflare, it will take a while for it to update the page. The site can 
 
 ---
 
-I hope this article helped you with knowing that making your own site isn't that hard and doesn't cost that much. Now go out and create your own site and have fun while doing it. 
+I hope this article helped you with knowing that making your own site isn't that hard and doesn't cost that much. Now go out and create your own site and have fun while doing it! 

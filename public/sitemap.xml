@@ -50,6 +50,14 @@
     
   
     
+      <url>
+            <loc>https://uberzachattack.xyz/resources/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
   
     
       <url>
@@ -136,14 +144,6 @@
     
       <url>
             <loc>https://uberzachattack.xyz/resources/programming/</loc>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://uberzachattack.xyz/resources/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>

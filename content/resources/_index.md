@@ -1,6 +1,4 @@
 ---
-title: "Resources"
-groupByYear: false
 layout: "simple"
 ---
 

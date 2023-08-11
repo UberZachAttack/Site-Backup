@@ -16,7 +16,7 @@ Below are the certifications that I currently hold:
 
 Contact info:
 - Discord @ uberzachattack
-- [Discord server that I lurk in](https://discord.gg/WEzvPJ4P)
+- [Discord server that I lurk in](https://discord.gg/ZAdtejtrGZ)
 
 Professional Contact info:
 - LinkedIn: buxgr://wyd.lbgkgnco.gfl/ip/gmteipswi/
