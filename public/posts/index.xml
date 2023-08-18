@@ -6,7 +6,16 @@
     <description>Recent content in Posts on UberZachAttack</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Jul 2023 17:10:06 -0400</lastBuildDate><atom:link href="https://uberzachattack.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Aug 2023 13:41:01 -0400</lastBuildDate><atom:link href="https://uberzachattack.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quick Note on Discord OSINT</title>
+      <link>https://uberzachattack.xyz/posts/quick-note-on-discord-osint/</link>
+      <pubDate>Fri, 18 Aug 2023 13:41:01 -0400</pubDate>
+      
+      <guid>https://uberzachattack.xyz/posts/quick-note-on-discord-osint/</guid>
+      <description>I will be going over Discord OSINT techniques and methodologies that I have not seen online.</description>
+    </item>
+    
     <item>
       <title>How to Create Your Own Website</title>
       <link>https://uberzachattack.xyz/posts/how-to-create-your-own-website/</link>

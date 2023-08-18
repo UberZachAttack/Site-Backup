@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on UberZachAttack</title>
+    <link>https://uberzachattack.xyz/tags/research/</link>
+    <description>Recent content in Research on UberZachAttack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 18 Aug 2023 13:41:01 -0400</lastBuildDate><atom:link href="https://uberzachattack.xyz/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quick Note on Discord OSINT</title>
+      <link>https://uberzachattack.xyz/posts/quick-note-on-discord-osint/</link>
+      <pubDate>Fri, 18 Aug 2023 13:41:01 -0400</pubDate>
+      
+      <guid>https://uberzachattack.xyz/posts/quick-note-on-discord-osint/</guid>
+      <description>I will be going over Discord OSINT techniques and methodologies that I have not seen online.</description>
+    </item>
+    
+  </channel>
+</rss>

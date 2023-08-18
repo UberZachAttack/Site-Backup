@@ -8,6 +8,16 @@
     <language>en</language>
     <lastBuildDate>Thu, 06 Jul 2023 13:07:39 -0400</lastBuildDate><atom:link href="https://uberzachattack.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Quick Note on Discord OSINT</title>
+      <link>https://uberzachattack.xyz/posts/quick-note-on-discord-osint/</link>
+      <pubDate>Fri, 18 Aug 2023 13:41:01 -0400</pubDate>
+      
+      <guid>https://uberzachattack.xyz/posts/quick-note-on-discord-osint/</guid>
+      <description>I will be going over Discord OSINT techniques and methodologies that I have not seen online.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://uberzachattack.xyz/posts/quick-note-on-discord-osint/feature.png" />
+    </item>
+    
+    <item>
       <title>How to Create Your Own Website</title>
       <link>https://uberzachattack.xyz/posts/how-to-create-your-own-website/</link>
       <pubDate>Thu, 13 Jul 2023 17:10:06 -0400</pubDate>
