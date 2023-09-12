@@ -73,6 +73,7 @@ Now, assuming that you didn't read the documentation, here are the important thi
 - Understanding the directory structure of Hugo
 	- `content/` is where the articles will be stored in markdown, `public/` is where the HTML will be generated once you are done creating your site
 - The notable articles are [Configuration](https://blowfish.page/docs/configuration/), [Shortcodes](https://blowfish.page/docs/shortcodes/), [Series](https://blowfish.page/docs/series/), [Content Examples](https://blowfish.page/docs/content-examples/)
+	- **Edit:** [Front Matter](https://blowfish.page/docs/front-matter/) is also very important, particularly for customizing articles separately
 - Create the homepage by running `hugo new _index.md`
 - Setup the configuration files as described within the documentation
 	- Setup `config.toml`, then configure preferences you would like within `languages.en.toml`, `menus.en.toml`, and `params.toml`

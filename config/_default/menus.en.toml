@@ -70,16 +70,22 @@
   weight = 70
 
 [[main]]
+  name = "Home Lab Resources"
+  parent = "Resources"
+  pageRef = "resources/home-lab"
+  weight = 80
+
+[[main]]
   name = "Physical Tools"
   parent = "Resources"
   pageRef = "resources/physical"
-  weight = 80
+  weight = 90
 
 [[main]]
   name = "Blockchain"
   parent = "Resources"
   pageRef = "resources/blockchain"
-  weight = 90
+  weight = 100
 
 
 

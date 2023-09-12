@@ -11,3 +11,4 @@ layout: "simple"
 
 [Merch - Hak5](https://shop.hak5.org/pages/merch)
 
+[OffSec Merch Store](https://offsec.usa.dowlis.com/)

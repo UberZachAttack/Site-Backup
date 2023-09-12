@@ -75,5 +75,7 @@ layout: "simple"
 
 [CommonMark](https://commonmark.org/)
 
+[IntelTechniques.com](https://inteltechniques.com/index.html)
+
 ---
 

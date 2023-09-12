@@ -72,3 +72,5 @@ layout: "simple"
 [Filesec.io](https://filesec.io/)
 
 [Metasploitable Hardening Guide](https://akvilekiskis.com/work/metasploitable/index.html)
+
+[Defensive Security](https://edu.defensive-security.com/)

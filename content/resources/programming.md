@@ -21,3 +21,6 @@ layout: "simple"
 
 [Code Dojo](https://www.codingdojo.com/)
 
+[CodePen](https://codepen.io/)
+
+[Creative Tim](https://www.creative-tim.com/)
