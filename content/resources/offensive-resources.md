@@ -71,6 +71,8 @@ layout: "simple"
 
 [Gin & Juice Shop](https://ginandjuice.shop/)
 
+[RedTiger's Hackit](http://redtiger.labs.overthewire.org/)
+
 ---
 
 ## Online tools

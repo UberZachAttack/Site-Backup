@@ -8,6 +8,16 @@
     <language>en</language>
     <lastBuildDate>Thu, 06 Jul 2023 13:07:39 -0400</lastBuildDate><atom:link href="https://uberzachattack.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Certified Bug Bounty Hunter Review</title>
+      <link>https://uberzachattack.xyz/posts/certified-bug-bounty-hunter-review/</link>
+      <pubDate>Sun, 08 Oct 2023 19:02:38 -0400</pubDate>
+      
+      <guid>https://uberzachattack.xyz/posts/certified-bug-bounty-hunter-review/</guid>
+      <description>Review of HackTheBox Academy&amp;rsquo;s Certified Bug Bounty Hunter certification, the reasons why I chose this certification, review of the course material, and how the exam is.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://uberzachattack.xyz/posts/certified-bug-bounty-hunter-review/feature.png" />
+    </item>
+    
+    <item>
       <title>Quick Note on Discord OSINT</title>
       <link>https://uberzachattack.xyz/posts/quick-note-on-discord-osint/</link>
       <pubDate>Fri, 18 Aug 2023 13:41:01 -0400</pubDate>

@@ -5,11 +5,13 @@ layout: "simple"
 
 Previous work experience:
 
+- Cybersecurity Specialist, October 2023 - Present
 - Junior Penetration Tester, July 2022 - May 2023
 - IT Support Specialist, June 2018 - March 2020
 
 Below are the certifications that I currently hold: 
 
+- (CBBH) Certified Bug Bounty Hunter, HackTheBox Academy, September 2023
 - (PNPT) Practical Network Penetration Tester, TCM Academy, March 2022
 - (eJPT) Junior Penetration Tester, eLearnSecurity, August 2021
 - NSA Undergraduate Certificate - IST, May 2022

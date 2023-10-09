@@ -51,6 +51,12 @@ layout: "simple"
 
 [Autopsy - Training](https://www.autopsy.com/support/training/)
 
+[Certified Forensic Computer Examiner (CFCE)](https://www.iacis.com/certification/cfce/)
+
+[Certified Computer Examiner (CCE)](https://www.isfce.com/certification.htm)
+
+[13cubed](https://www.13cubed.com/)
+
 ---
 
 ## Other
@@ -74,3 +80,8 @@ layout: "simple"
 [Metasploitable Hardening Guide](https://akvilekiskis.com/work/metasploitable/index.html)
 
 [Defensive Security](https://edu.defensive-security.com/)
+
+[CSI Linux (Training, Certifications)](https://csilinux.com/)
+
+[The DFIR Report](https://thedfirreport.com/)
+
