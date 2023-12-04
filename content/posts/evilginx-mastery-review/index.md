@@ -2,7 +2,7 @@
 title: "Evilginx Mastery Review"
 date: 2023-12-03T23:31:09-05:00
 showSummary: true
-summary: "Quick review of Evilginx Mastery course and helpful tips to use while taking the course."
+summary: "Quick review of the Evilginx Mastery course and helpful tips to use while taking it."
 tags: ['Review']
 ---
 
