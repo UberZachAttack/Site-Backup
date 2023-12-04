@@ -14,3 +14,9 @@ layout: "simple"
 [Flipper Zero — Portable Multi-tool Device for Geeks](https://flipperzero.one/)
 
 [InventrKits – Make Something Meaningful.](https://inventr.io/)
+
+[Expliot Store](https://store.expliot.io/)
+
+[KSEC LABs](https://labs.ksec.co.uk/)
+
+[Maltronics](https://maltronics.com/)

@@ -25,6 +25,8 @@ layout: "simple"
 
 [VECTR | Collaborate. Quantify. Improve.](https://vectr.io/)
 
+[ExplainShell.com](https://explainshell.com/about)
+
 ---
 
 ## ISP
@@ -78,6 +80,14 @@ layout: "simple"
 [IntelTechniques.com](https://inteltechniques.com/index.html)
 
 [Chaos Monkey](https://netflix.github.io/chaosmonkey/)
+
+[Kase Scenarios](https://www.kasescenarios.com/)
+
+[VimGenius](http://www.vimgenius.com/)
+
+[Vim Snake](https://vimsnake.com/)
+
+[Vim Adventures](https://vim-adventures.com/)
 
 ---
 

@@ -12,3 +12,7 @@ layout: "simple"
 [Merch - Hak5](https://shop.hak5.org/pages/merch)
 
 [OffSec Merch Store](https://offsec.usa.dowlis.com/)
+
+[Framework](https://frame.work/marketplace/merch)
+
+[HackCloth](https://hackcloth.com/)

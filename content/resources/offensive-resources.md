@@ -153,6 +153,8 @@ layout: "simple"
 
 [MalDev Academy - Home](https://maldevacademy.com/)
 
+[BREAKDEV Academy](https://academy.breakdev.org/)
+
 ---
 
 ## Other
@@ -172,5 +174,9 @@ layout: "simple"
 [SEED Project](https://seedsecuritylabs.org/Labs_20.04/)
 
 [Penetration Test reports](https://pentestreports.com/)
+
+[Dreadnode: AI Red Teaming](https://dreadnode.io/)
+
+[Expliot: IoT Security Testing](https://expliot.io/)
 
 
