@@ -26,8 +26,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.b3684fd61ef5db79f6fa01cefe9da42dd4893d2a190b1a0e0c52b316c581bee3d2c85f8125c246528ed7a3f91916d8c7e30bf0081b6c89c3cfe96ccc5b17561d.css"
-    integrity="sha512-s2hP1h7123n2&#43;gHO/p2kLdSJPSoZCxoODFKzFsWBvuPSyF&#43;BJcJGUo7Xo/kZFtjH4wvwCBtsicPP6WzMWxdWHQ==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.16b94f710ae1374ebb712cfc30cd58c66df9857c3b5dca63509ee9e48d34cad6dd4a9b6394ce134f1f44fe1429e4f3bc405110d2da46645b3dc049ea1360a944.css"
+    integrity="sha512-FrlPcQrhN067cSz8MM1Yxm35hXw7XcpjUJ7p5I00ytbdSptjlM4TTx9E/hQp5PO8QFEQ0tpGZFs9wEnqE2CpRA==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.cd9f9776639958530668ef95bdcb135cc25d054d0602992241cd8e6b51e4329c9c85e3ee490fe231093dc89af06987d3876a7d54f4bae9c8ce03190ee528a55d.js"
@@ -41,10 +41,12 @@
   
   
   
-  <script defer type="text/javascript" id="script-bundle" src="/js/main.bundle.min.207ab33d0f2d385dc2cc8a812d54252dace2bfff6aca64f3571049a6a5ce7df1c5c756dd35118284fdc556586405d6706ba8c71d4a121b9d99487fa881eccb4e.js"
-    integrity="sha512-IHqzPQ8tOF3CzIqBLVQlLaziv/9qymTzVxBJpqXOffHFx1bdNRGChP3FVlhkBdZwa6jHHUoSG52ZSH&#43;ogezLTg==" data-copy="" data-copied=""></script>
+  <script defer type="text/javascript" id="script-bundle" src="/js/main.bundle.min.bdfe1049a5595108a24b0ee96cb99bd1b1a35e5c6bb1935e3914788c6fcddfcdabeb69864a143f54187930442c8522151d1e7c109bd50e170ba359297a236bcc.js"
+    integrity="sha512-vf4QSaVZUQiiSw7pbLmb0bGjXlxrsZNeORR4jG/N382r62mGShQ/VBh5MEQshSIVHR58EJvVDhcLo1kpeiNrzA==" data-copy="" data-copied=""></script>
+  
   
   <script src="/js/zoom.min.js"></script>
+  
   
   
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
@@ -151,8 +153,9 @@
     <div class="flex flex-1 items-center justify-between">
         <nav class="flex space-x-3">
 
+            
             <a href="/" class="text-base font-medium text-gray-500 hover:text-gray-900">UberZachAttack</a>
-
+            
 
         </nav>
         <nav class="hidden md:flex items-center space-x-5 md:ml-12 h-12">
@@ -403,6 +406,7 @@
 
         <label id="menu-button" for="menu-controller" class="block">
             <input type="checkbox" id="menu-controller" class="hidden" />
+            
             <div class="cursor-pointer hover:text-primary-600 dark:hover:text-primary-400">
                 
 
@@ -414,7 +418,7 @@
 
             </div>
             <div id="menu-wrapper" style="padding-top:5px;"
-                class="fixed inset-0 z-30 invisible w-screen h-screen m-auto overflow-auto transition-opacity opacity-0 cursor-default bg-neutral-100/50 backdrop-blur-sm dark:bg-neutral-900/50">
+                class="fixed inset-0 z-30 invisible w-screen h-screen m-0 overflow-auto transition-opacity opacity-0 cursor-default bg-neutral-100/50 backdrop-blur-sm dark:bg-neutral-900/50">
                 <ul
                     class="flex space-y-2 mt-3 flex-col items-end w-full px-6 py-6 mx-auto overflow-visible list-none ltr:text-right rtl:text-left max-w-7xl">
 
@@ -430,7 +434,6 @@
 </span>
                     </li>
 
-                    
                     
 
                     
@@ -601,9 +604,9 @@
 
 
                     
-                    
 
                 </ul>
+                
                 
 
             </div>
@@ -665,7 +668,7 @@
 
 
 
-<div class="flex flex-row flex-wrap items-center">
+<div style="cursor: default;" class="flex flex-row flex-wrap items-center">
   
   
   <time datetime="2023-07-13 17:10:06 -0400 EDT">July 13, 2023</time><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">7 mins</span>
@@ -679,7 +682,7 @@
 
 
 
-<div class="flex flex-row flex-wrap items-center">
+<div style="cursor: pointer;" class="flex flex-row flex-wrap items-center">
   
   
   
@@ -727,12 +730,18 @@
     
   
   </header>
+  
   <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">
     
+    
+
       <div class="min-w-0 min-h-0 max-w-full">
         
+        
 
-        <p>
+
+        <div class="max-w-full mb-20">
+          <p>
 
 
 
@@ -758,12 +767,14 @@
 I will be going over why I decided to create my own website and how you can do the same using <a href="https://gohugo.io/"   target="_blank">
     Hugo</a> and the <a href="https://blowfish.page/"   target="_blank">
     Blowfish theme</a>.</p>
-<div id="why" class="anchor"></div>
 <h2 class="relative group">Why 
+    <div id="why" class="anchor"></div>
+    
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#why" aria-label="Anchor">#</a></span>        
+            style="text-decoration-line: none !important;" href="#why" aria-label="Anchor">#</a>
+    </span>        
     
 </h2>
 <p>I got my inspiration to create this site from Luke Smith, specifically from this <a href="https://youtu.be/ZFL09qhKi5I"   target="_blank">
@@ -784,12 +795,14 @@ I will be going over why I decided to create my own website and how you can do t
 <li>Most importantly, <strong>creative output</strong>. I feel like this is something that is not talked about as much as it needs to be. Having an outlet to where you can be creative is important since it is direct expression of who you are. Writing might not be viewed as the most creative medium but it still counts.</li>
 <li>Finally, a quote that I enjoy. &ldquo;<em>Find three hobbies you love: One to make you money, one to keep you in shape, and one to be creative.</em>&rdquo; Why not have 2 of the hobbies be connected in some way?</li>
 </ul>
-<div id="setup-and-prerequisites" class="anchor"></div>
 <h2 class="relative group">Setup and Prerequisites 
+    <div id="setup-and-prerequisites" class="anchor"></div>
+    
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#setup-and-prerequisites" aria-label="Anchor">#</a></span>        
+            style="text-decoration-line: none !important;" href="#setup-and-prerequisites" aria-label="Anchor">#</a>
+    </span>        
     
 </h2>
 <p>Here are some of the things needed to create your first site.</p>
@@ -799,12 +812,14 @@ I will be going over why I decided to create my own website and how you can do t
 <li>Linux virtual machine to develop the site</li>
 <li>GitHub account</li>
 </ul>
-<div id="domain-name-and-hosting" class="anchor"></div>
 <h4 class="relative group">Domain Name and Hosting 
+    <div id="domain-name-and-hosting" class="anchor"></div>
+    
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#domain-name-and-hosting" aria-label="Anchor">#</a></span>        
+            style="text-decoration-line: none !important;" href="#domain-name-and-hosting" aria-label="Anchor">#</a>
+    </span>        
     
 </h4>
 <p>A good friend of mine recommended that I check out <a href="https://pages.cloudflare.com/"   target="_blank">
@@ -820,33 +835,39 @@ I will be going over why I decided to create my own website and how you can do t
 <p>The important thing with finding a hosting service is to find one that is able to host static sites and have automatic TLS / SSL encryption. Digital Ocean is another good choice since the Starter plan is free and hosts 3 static sites, it&rsquo;s only $3 a month for every additional site.</p>
 <p>If you are feeling adventurous, you can go down the route of using a VPS and creating it with Nginx and certbot, <a href="https://landchad.net/"   target="_blank">
     LandChad.net</a> is a good place to start for that.</p>
-<div id="development-area" class="anchor"></div>
 <h4 class="relative group">Development area 
+    <div id="development-area" class="anchor"></div>
+    
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#development-area" aria-label="Anchor">#</a></span>        
+            style="text-decoration-line: none !important;" href="#development-area" aria-label="Anchor">#</a>
+    </span>        
     
 </h4>
 <p>I just use a Ubuntu virtual machine to run Hugo and create articles.</p>
 <p>Just ensure that <a href="https://go.dev/"   target="_blank">
     Go</a> and <a href="https://gohugo.io/"   target="_blank">
     Hugo</a> are updated and ready to be used.</p>
-<div id="github-account" class="anchor"></div>
 <h4 class="relative group">GitHub Account 
+    <div id="github-account" class="anchor"></div>
+    
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#github-account" aria-label="Anchor">#</a></span>        
+            style="text-decoration-line: none !important;" href="#github-account" aria-label="Anchor">#</a>
+    </span>        
     
 </h4>
 <p>The most important component within this equation. This is where the site will be stored and how the hosting service will find the code for your website.</p>
-<div id="building-the-site" class="anchor"></div>
 <h2 class="relative group">Building the Site 
+    <div id="building-the-site" class="anchor"></div>
+    
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#building-the-site" aria-label="Anchor">#</a></span>        
+            style="text-decoration-line: none !important;" href="#building-the-site" aria-label="Anchor">#</a>
+    </span>        
     
 </h2>
 <p>Now that everything is prepared, we can start using Hugo and Blowfish.</p>
@@ -896,12 +917,14 @@ git submodule add -b main https://github.com/nunocoracao/blowfish.git themes/blo
 </li>
 </ul>
 <p>The rest should be fairly simple. Create markdown files with the <code>hugo new</code> command and experiment with the site. Ensure that pages aren&rsquo;t in &ldquo;draft&rdquo; mode when you are creating some parts of your website and or ready to build the site.</p>
-<div id="making-the-site-live" class="anchor"></div>
 <h2 class="relative group">Making the Site Live 
+    <div id="making-the-site-live" class="anchor"></div>
+    
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#making-the-site-live" aria-label="Anchor">#</a></span>        
+            style="text-decoration-line: none !important;" href="#making-the-site-live" aria-label="Anchor">#</a>
+    </span>        
     
 </h2>
 <p>Now that you created a good base for your website, it&rsquo;s time to upload it to GitHub and link it to your hosting service.</p>
@@ -912,12 +935,14 @@ git submodule add -b main https://github.com/nunocoracao/blowfish.git themes/blo
 <p>Then, go over to the hosting service of your choice to grab the repository files. With Cloudflare Pages, I simply created a new website in the dashboard with my domain name. I then went to the <code>Workers and Pages</code> menu on the left and made a new page.</p>
 <p>Cloudflare will walk you through connecting your account and linking your repository. The next few steps are very simple once you link your repository.</p>
 <p>Once the site is deployed in Cloudflares network, click on your Cloudflare Page to go into the settings and head over to <code>Custom domains</code>. Simply press <code>Set up a custom domain</code> and type in the domain name that you bought for your site.</p>
-<div id="updating-the-site" class="anchor"></div>
 <h2 class="relative group">Updating the Site 
+    <div id="updating-the-site" class="anchor"></div>
+    
     <span
         class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
         <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
-            style="text-decoration-line: none !important;" href="#updating-the-site" aria-label="Anchor">#</a></span>        
+            style="text-decoration-line: none !important;" href="#updating-the-site" aria-label="Anchor">#</a>
+    </span>        
     
 </h2>
 <p>Now that the hard part is over, all that needs to be done to have a reliable way of updating your site repository.</p>
@@ -926,9 +951,13 @@ git submodule add -b main https://github.com/nunocoracao/blowfish.git themes/blo
 <hr>
 <p>I hope this article helped you with knowing that making your own site isn&rsquo;t that hard and doesn&rsquo;t cost that much. Now go out and create your own site and have fun while doing it!</p>
 
-        </br></br>
+        </div>
+                
         
 
+        
+
+          
       </div>
      
      <script>
@@ -941,12 +970,6 @@ git submodule add -b main https://github.com/nunocoracao/blowfish.git themes/blo
   
     </section>
   <footer class="pt-8 max-w-full print:hidden">
-
-    
-    
-
-
-    
 
     
   

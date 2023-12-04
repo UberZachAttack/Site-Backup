@@ -8,11 +8,11 @@ tags: ['Review']
 
 ![Article picture](feature.png)
 
-While pursuing the interwebs, I stumbled across this video from [John Hammond](https://youtu.be/sZ22YulJwao?si=hv8CE5n33rsCX9Qq).
+While perusing the interwebs, I stumbled across this video from [John Hammond](https://youtu.be/sZ22YulJwao?si=hv8CE5n33rsCX9Qq).
 
 {{< youtube sZ22YulJwao >}}
 
-Since I had professional experience with Evilginx and plan to use it more in the future, I took advantage of the discount and decided to buy the course.
+Since I had professional experience with Evilginx and plan to use it more in the future, I took advantage of the discount and decided to buy the course. That on top of the lifetime access to the course materials and labs, it was a no-brainer. 
 
 Even though I have worked with the tool before, I knew I had limited knowledge with using it and could not use Evilginx's capabilities to the fullest. The course was very well done and straight to the point. The training labs provided were extremely helpful in cementing how to use the functions and features provided in Evilginx.
 
@@ -104,6 +104,9 @@ Permanently change it: vim /etc/NetworkManager/NetworkManager.conf
 This should fix the issue of Evilginx not being about to establish a nameserver when starting up.
 ### Conclusion
 Overall, it is a great course. I would recommend this to anyone that wants to enhance their red team capabilities specifically for phishing and or wants to learn more about Evilginx. There were a couple times where the videos do not match up with the current version of Evilginx but that is expected with a video-based course.
+
+Personally, this course took me about 19 hours to complete in total. Keep in mind I was taking meticulous notes and taking my time with the labs. This course could be finished within day or two depending on how you study.  
+
 
 I would like to end this article with a comment made by someone at the start of the Deep Sea Phishing section:
 

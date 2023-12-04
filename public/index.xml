@@ -6,6 +6,7 @@
     <description>Recent content in Homepage on UberZachAttack</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <copyright>© 2023 UberZachAttack</copyright>
     <lastBuildDate>Thu, 06 Jul 2023 13:07:39 -0400</lastBuildDate><atom:link href="https://uberzachattack.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Evilginx Mastery Review</title>
@@ -73,7 +74,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://uberzachattack.xyz/resources/blogs/</guid>
-      <description>Company Blogs #  SpecterOps</description>
+      <description>Company Blogs  #   SpecterOps</description>
       
     </item>
     
@@ -83,7 +84,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://uberzachattack.xyz/resources/ctf-resources/</guid>
-      <description>Top CTF Platforms #  PicoCTF</description>
+      <description>Top CTF Platforms  #   PicoCTF</description>
       
     </item>
     
@@ -93,7 +94,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://uberzachattack.xyz/resources/defensive-resources/</guid>
-      <description>Defensive Platforms #  Training » SECURITY BLUE TEAM</description>
+      <description>Defensive Platforms  #   Training » SECURITY BLUE TEAM</description>
       
     </item>
     
@@ -133,7 +134,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://uberzachattack.xyz/resources/miscellaneous/</guid>
-      <description>Random Tools and Resources #  ImHex - Hex Editor</description>
+      <description>Random Tools and Resources  #   ImHex - Hex Editor</description>
       
     </item>
     
@@ -143,7 +144,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://uberzachattack.xyz/resources/offensive-resources/</guid>
-      <description>Offensive Platforms #   Top #  Altered Security Online Labs</description>
+      <description>Offensive Platforms  #   Top  #   Altered Security Online Labs</description>
       
     </item>
     
@@ -183,7 +184,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://uberzachattack.xyz/resources/training/</guid>
-      <description>Top #  Antisyphon</description>
+      <description>Top  #   Antisyphon</description>
       
     </item>
     

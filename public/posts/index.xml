@@ -6,6 +6,7 @@
     <description>Recent content in Posts on UberZachAttack</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <copyright>© 2023 UberZachAttack</copyright>
     <lastBuildDate>Sun, 03 Dec 2023 23:31:09 -0500</lastBuildDate><atom:link href="https://uberzachattack.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Evilginx Mastery Review</title>
@@ -14,6 +15,7 @@
       
       <guid>https://uberzachattack.xyz/posts/evilginx-mastery-review/</guid>
       <description>Quick review of the Evilginx Mastery course and helpful tips to use while taking it.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://uberzachattack.xyz/posts/evilginx-mastery-review/feature.png" />
     </item>
     
     <item>
@@ -23,6 +25,7 @@
       
       <guid>https://uberzachattack.xyz/posts/certified-bug-bounty-hunter-review/</guid>
       <description>Review of HackTheBox Academy&amp;rsquo;s Certified Bug Bounty Hunter certification, the reasons why I chose this certification, review of the course material, and how the exam is.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://uberzachattack.xyz/posts/certified-bug-bounty-hunter-review/feature.png" />
     </item>
     
     <item>
@@ -32,6 +35,7 @@
       
       <guid>https://uberzachattack.xyz/posts/quick-note-on-discord-osint/</guid>
       <description>I will be going over Discord OSINT techniques and methodologies that I have not seen online.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://uberzachattack.xyz/posts/quick-note-on-discord-osint/feature.png" />
     </item>
     
     <item>
@@ -41,6 +45,7 @@
       
       <guid>https://uberzachattack.xyz/posts/how-to-create-your-own-website/</guid>
       <description>I will be going over why I decided to create my own website and how you can do the same using Hugo and the Blowfish theme.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://uberzachattack.xyz/posts/how-to-create-your-own-website/feature.png" />
     </item>
     
   </channel>

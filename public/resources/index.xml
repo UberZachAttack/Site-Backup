@@ -5,7 +5,9 @@
     <link>https://uberzachattack.xyz/resources/</link>
     <description>Recent content on UberZachAttack</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://uberzachattack.xyz/resources/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>© 2023 UberZachAttack</copyright>
+    <atom:link href="https://uberzachattack.xyz/resources/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blockchain Resources</title>
       <link>https://uberzachattack.xyz/resources/blockchain/</link>
@@ -13,6 +15,7 @@
       
       <guid>https://uberzachattack.xyz/resources/blockchain/</guid>
       <description>Ethernaut</description>
+      
     </item>
     
     <item>
@@ -21,7 +24,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://uberzachattack.xyz/resources/blogs/</guid>
-      <description>Company Blogs #  SpecterOps</description>
+      <description>Company Blogs  #   SpecterOps</description>
+      
     </item>
     
     <item>
@@ -30,7 +34,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://uberzachattack.xyz/resources/ctf-resources/</guid>
-      <description>Top CTF Platforms #  PicoCTF</description>
+      <description>Top CTF Platforms  #   PicoCTF</description>
+      
     </item>
     
     <item>
@@ -39,7 +44,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://uberzachattack.xyz/resources/defensive-resources/</guid>
-      <description>Defensive Platforms #  Training » SECURITY BLUE TEAM</description>
+      <description>Defensive Platforms  #   Training » SECURITY BLUE TEAM</description>
+      
     </item>
     
     <item>
@@ -49,6 +55,7 @@
       
       <guid>https://uberzachattack.xyz/resources/home-lab/</guid>
       <description>Snap Labs / Immersive Labs</description>
+      
     </item>
     
     <item>
@@ -58,6 +65,7 @@
       
       <guid>https://uberzachattack.xyz/resources/main-platforms/</guid>
       <description>Below are the cybersecurity resources that I have used the most and can personally attest to.</description>
+      
     </item>
     
     <item>
@@ -67,6 +75,7 @@
       
       <guid>https://uberzachattack.xyz/resources/merch/</guid>
       <description>PortSwigger Merch Store | Spreadshop</description>
+      
     </item>
     
     <item>
@@ -75,7 +84,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://uberzachattack.xyz/resources/miscellaneous/</guid>
-      <description>Random Tools and Resources #  ImHex - Hex Editor</description>
+      <description>Random Tools and Resources  #   ImHex - Hex Editor</description>
+      
     </item>
     
     <item>
@@ -84,7 +94,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://uberzachattack.xyz/resources/offensive-resources/</guid>
-      <description>Offensive Platforms #   Top #  Altered Security Online Labs</description>
+      <description>Offensive Platforms  #   Top  #   Altered Security Online Labs</description>
+      
     </item>
     
     <item>
@@ -94,6 +105,7 @@
       
       <guid>https://uberzachattack.xyz/resources/physical/</guid>
       <description>Get Loot!</description>
+      
     </item>
     
     <item>
@@ -103,6 +115,7 @@
       
       <guid>https://uberzachattack.xyz/resources/programming/</guid>
       <description>HackerRank</description>
+      
     </item>
     
     <item>
@@ -112,6 +125,7 @@
       
       <guid>https://uberzachattack.xyz/resources/template/</guid>
       <description>This is a template</description>
+      
     </item>
     
     <item>
@@ -120,7 +134,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://uberzachattack.xyz/resources/training/</guid>
-      <description>Top #  Antisyphon</description>
+      <description>Top  #   Antisyphon</description>
+      
     </item>
     
   </channel>

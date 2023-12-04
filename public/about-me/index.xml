@@ -5,7 +5,9 @@
     <link>https://uberzachattack.xyz/about-me/</link>
     <description>Recent content on UberZachAttack</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://uberzachattack.xyz/about-me/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>© 2023 UberZachAttack</copyright>
+    <atom:link href="https://uberzachattack.xyz/about-me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://uberzachattack.xyz/about-me/more-info/</link>
@@ -13,6 +15,7 @@
       
       <guid>https://uberzachattack.xyz/about-me/more-info/</guid>
       <description>Previous work experience:</description>
+      
     </item>
     
   </channel>

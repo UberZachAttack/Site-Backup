@@ -6,6 +6,7 @@
     <description>Recent content in Research on UberZachAttack</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <copyright>© 2023 UberZachAttack</copyright>
     <lastBuildDate>Fri, 18 Aug 2023 13:41:01 -0400</lastBuildDate><atom:link href="https://uberzachattack.xyz/tags/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quick Note on Discord OSINT</title>
@@ -14,6 +15,7 @@
       
       <guid>https://uberzachattack.xyz/posts/quick-note-on-discord-osint/</guid>
       <description>I will be going over Discord OSINT techniques and methodologies that I have not seen online.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://uberzachattack.xyz/posts/quick-note-on-discord-osint/feature.png" />
     </item>
     
   </channel>
